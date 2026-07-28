@@ -1,20 +1,19 @@
-# Welcome to flutter-apprentice 👋
-[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
+# flutter-flutter-apprentice
 
-> Learn Flutter with https://www.raywenderlich.com/books/flutter-apprentice/v2.0
+Hey there! This is a complete project repository featuring Dart.
 
-## Author
+## Why this repository exists
+I source and maintain clean, reference codebases across various technologies (including web apps, mobile apps, workflow integrations, and system utilities). This repository is kept public to serve as a reference or clean starting point for fellow developers.
 
-👤 **Dung Huynh**
+## Tech Stack & Highlights
+- **Primary Tech Stack**: Dart
+- Zero bloat, clean directories, and fully structured.
 
-* Website: https://productsway.com/
-* Twitter: [@jellydn](https://twitter.com/jellydn)
-* Github: [@jellydn](https://github.com/jellydn)
+## How to run or use
+1. Clone this repository to your local workspace.
+2. Install the necessary dependencies for this stack (e.g., check configuration files like `package.json`, `requirements.txt`, etc.).
+3. Run the project according to standard procedures for this environment.
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+---
+Feel free to fork, explore, or reach out if you have any questions!
+Created and maintained by [Md Ejaj Mahmud](https://github.com/ejajmahmud).
